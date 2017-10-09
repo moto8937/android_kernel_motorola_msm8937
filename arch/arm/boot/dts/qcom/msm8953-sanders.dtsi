@@ -13,6 +13,7 @@
 #include "msm8953.dtsi"
 #include "msm8953-pinctrl.dtsi"
 #include "msm8953-sanders-pinctrl.dtsi"
+#include "msm-pmi8950.dtsi"
 #include "dsi-panel-mot-dummy-qhd-video.dtsi"
 #include <moto-mem-reserve.h>
 #include "dsi-panel-mot-tianma-550-1080p-vid.dtsi"
